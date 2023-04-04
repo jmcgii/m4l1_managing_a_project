@@ -11,3 +11,7 @@ Fuchsia
 Purple
 Brown
 Red
+Crimso
+Orang
+Blu
+Cy
